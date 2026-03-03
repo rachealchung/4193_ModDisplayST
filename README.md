@@ -1,6 +1,6 @@
 # 4193_ModDisplayST
 
-*Lab 1*
+*Lab 1: Flicker Fusion*
 
 Nucleo F303K8 Microcontroller, Arduino, LEDs, Resistors
 - L1_Blink.ino
